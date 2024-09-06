@@ -1,18 +1,4 @@
-## Vamos transformar esse texto em Markdown básico! 
-
-**Entenda o Markdown básico:**
-
-* **Títulos:** Usamos o `#` para indicar títulos. Quanto mais `#`, menor o nível do título.
-* **Negrito:** Envolvemos o texto em `**` (dois asteriscos).
-* **Itálico:** Envolvemos o texto em `*` (um asterisco).
-* **Listas:**
-    * Listas não ordenadas: Iniciamos cada item com `-` ou `*`.
-    * Listas ordenadas: Iniciamos cada item com um número seguido de um ponto.
-* **Quebras de linha:** Duas quebras de linha em branco criam um parágrafo novo.
-
-**Aqui está o texto reescrito em Markdown básico:**
-
-# README.md: Seu Guia Completo para a Pescaria em Stardew Valley!
+Seu Guia Completo para a Pescaria em Stardew Valley!
 
 Já cansou de passar horas pescando sem saber qual peixe procurar? Essa aplicação web simples, mas poderosa, vai te ajudar a encontrar o peixe perfeito para sua coleção!
 
