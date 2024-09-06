@@ -1,3 +1,5 @@
+Projeto feito Durante a Imersão dev com o google Gemini
+
 Seu Guia Completo para a Pescaria em Stardew Valley!
 
 Já cansou de passar horas pescando sem saber qual peixe procurar? Essa aplicação web simples, mas poderosa, vai te ajudar a encontrar o peixe perfeito para sua coleção!
