@@ -1,4 +1,4 @@
-Projeto feito Durante a Imersão dev com o google Gemini
+Projeto feito Durante a Imersão dev com o google Gemini!
 
 Seu Guia Completo para a Pescaria em Stardew Valley!
 
